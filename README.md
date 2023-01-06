@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+中文教程：[Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+最新外文教程：[guides.rubyonrails.org](https://guides.rubyonrails.org/getting_started.html)
